@@ -1,6 +1,6 @@
 # Biomedical-Image-Analysis-in-Python-Datacamp
 
-This repo contains the material from the Datacamp course "Biomedical Image Analysis in Python".
+This repo contains material from Datacamp course "Biomedical Image Analysis in Python".  Many thanks to Datacamp / Stephen Bailey for the great course!
 
 Reference: https://learn.datacamp.com/courses/biomedical-image-analysis-in-python
 
@@ -13,4 +13,5 @@ Third chapter is about image segmentation, object labeling, and morphological me
 Final chapter discusses basics of registration, resampling, and image comparison.
 
 Not all images from the course are available in this repository.  
+
 Please use your examples of images to experiment with the code.
